@@ -1,12 +1,12 @@
 {
-  "name": "tracerybot",
+  "name": "fakegotspoilers",
   "version": "0.0.0",
   "description": "twitterbot generating from tracery",
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "v21",
+  "author": "nelsonam",
   "license": "ISC",
   "dependencies":
   {
